@@ -1,29 +1,71 @@
-### Hi there 👋, I'am ishaq
-#### Web Developer
-👋 Hello, I'm ishaq!
+# Hi 👋, I'm Ishaq Ahammad Mondol
 
-🚀 Web Developer | 💻 Open Source Enthusiast | 🌟 Passionate Learner
+### A passionate **Frontend Developer** from Bangladesh 🚀
 
-🌐 As a web developer, I'm dedicated to crafting engaging and innovative digital experiences. Proficient in HTML, CSS, JavaScript,React and various frameworks, I thrive on turning ideas into intuitive, user-friendly interfaces.
+I love building modern, responsive, and user-friendly web applications. With expertise in **React**, **JavaScript**, **HTML**, **CSS**, and **Tailwind CSS**, I enjoy turning ideas into functional and visually appealing digital experiences. I’m also skilled in backend technologies like **Node.js**, **Express.js**, **MongoDB**, and **Firebase Authentication**, making me a versatile full-stack developer.
 
-🔭 Exploring the latest trends and technologies in web development keeps me on my toes, while my commitment to clean, efficient code ensures scalability and maintainability. From responsive designs to dynamic web applications, I love bringing concepts to life in the digital realm.
+---
 
-🌱 I actively contribute to open-source projects and enjoy collaborating with fellow developers to solve real-world problems. Let's connect, collaborate, and create something extraordinary together!
+## 🔭 I’m currently working on
+- **[Project Name](project link)** - A brief description of the project.
 
-Skills: REACT / JS / HTML / CSS
+## 👯 I’m looking to collaborate on
+- **[Project Name](project link)** - A brief description of the project.
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Node js 
-- 👯 I’m looking to collaborate on Github 
+## 🤝 I’m looking for help with
+- **[Project Name](project link)** - A brief description of the project.
 
+## 🌱 I’m currently learning
+- **Advanced React Patterns**
+- **GraphQL**
+- **TypeScript**
+- **Docker**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ishaq60)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/ishaqshamim243/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/ishaqshamim221//)  
+## 💬 Ask me about
+- **React**
+- **Vue**
+- **GSAP (for animations)**
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+## 📫 How to reach me
+- **Email**: [example@gmail.com](mailto:example@gmail.com)
+- **LinkedIn**: [Your LinkedIn Profile](linkedin-link)
+- **Portfolio**: [Your Portfolio Website](portfolio-link)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ishaq60)](https://github.com/ryo-ma/github-profile-trophy)
+## 👨‍💻 All of my projects are available at
+- **[Portfolio Link](portfolio-link)**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishaq60)](https://github.com/anuraghazra/github-readme-stats)
+## 📝 I regularly write articles on
+- **[Blog Link](blog-link)**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ishaq60&show_icons=true&count_private=true)  
+## 📄 Know about my experiences
+- **[Resume Link](resume-link)**
+
+---
+
+## 🛠️ Skills & Tools
+
+### Frontend
+- **React** ⚛️
+- **JavaScript (ES6+)** 📜
+- **HTML5** / **CSS3** 🎨
+- **Tailwind CSS** 🌟
+- **GSAP** (for animations) ✨
+
+### Backend
+- **Node.js** 🖥️
+- **Express.js** 🚀
+- **MongoDB** 🗄️
+- **Firebase Authentication** 🔐
+- **JWT (JSON Web Tokens)** 🔑
+
+### Tools
+- **Git & GitHub** 🐙
+- **VS Code** 🔧
+- **Postman** 📡
+- **Figma** 🎨
+
+---
+
+## ⚡ Fun Fact
+I think I’m funny, but my friends say my code is funnier! 😄
 
