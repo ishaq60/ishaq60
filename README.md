@@ -1,71 +1,25 @@
-# Hi 👋, I'm Ishaq Ahammad Mondol
+<h1 align="center">Hi 👋, I'm Ishaq Ahammad Mondol</h1>
+<h3 align="center">### A passionate **Frontend Developer** from Bangladesh 🚀 I love building modern, responsive, and user-friendly web applications. With expertise in **React**, **JavaScript**, **HTML**, **CSS**, and **Tailwind CSS**, I enjoy turning ideas into functional and visually appealing digital experiences. I’m also skilled in backend technologies like **Node.js**, **Express.js**, **MongoDB**, and **Firebase Authentication**, making me a versatile full-stack developer.</h3>
 
-### A passionate **Frontend Developer** from Bangladesh 🚀
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishaq60&label=Profile%20views&color=0e75b6&style=flat" alt="ishaq60" /> </p>
 
-I love building modern, responsive, and user-friendly web applications. With expertise in **React**, **JavaScript**, **HTML**, **CSS**, and **Tailwind CSS**, I enjoy turning ideas into functional and visually appealing digital experiences. I’m also skilled in backend technologies like **Node.js**, **Express.js**, **MongoDB**, and **Firebase Authentication**, making me a versatile full-stack developer.
+<p align="left"> <a href="https://twitter.com/ishaqshamim2" target="blank"><img src="https://img.shields.io/twitter/follow/ishaqshamim2?logo=twitter&style=for-the-badge" alt="ishaqshamim2" /></a> </p>
 
----
+- 🌱 I’m currently learning **Next js**
 
-## 🔭 I’m currently working on
-- **[Project Name](project link)** - A brief description of the project.
+- 💬 Ask me about **react**
 
-## 👯 I’m looking to collaborate on
-- **[Project Name](project link)** - A brief description of the project.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ishaqshamim2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ishaqshamim2" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ishaq-ahammad-mondol-556b113117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishaq-ahammad-mondol-556b113117" height="30" width="40" /></a>
+<a href="https://fb.com/ishaqshamim243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ishaqshamim243" height="30" width="40" /></a>
+<a href="https://instagram.com/ishaqshamim243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishaqshamim243" height="30" width="40" /></a>
+</p>
 
-## 🤝 I’m looking for help with
-- **[Project Name](project link)** - A brief description of the project.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-## 🌱 I’m currently learning
-- **Advanced React Patterns**
-- **GraphQL**
-- **TypeScript**
-- **Docker**
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishaq60&show_icons=true&locale=en&layout=compact" alt="ishaq60" /></p>
 
-## 💬 Ask me about
-- **React**
-- **Vue**
-- **GSAP (for animations)**
-
-## 📫 How to reach me
-- **Email**: [example@gmail.com](mailto:example@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](linkedin-link)
-- **Portfolio**: [Your Portfolio Website](portfolio-link)
-
-## 👨‍💻 All of my projects are available at
-- **[Portfolio Link](portfolio-link)**
-
-## 📝 I regularly write articles on
-- **[Blog Link](blog-link)**
-
-## 📄 Know about my experiences
-- **[Resume Link](resume-link)**
-
----
-
-## 🛠️ Skills & Tools
-
-### Frontend
-- **React** ⚛️
-- **JavaScript (ES6+)** 📜
-- **HTML5** / **CSS3** 🎨
-- **Tailwind CSS** 🌟
-- **GSAP** (for animations) ✨
-
-### Backend
-- **Node.js** 🖥️
-- **Express.js** 🚀
-- **MongoDB** 🗄️
-- **Firebase Authentication** 🔐
-- **JWT (JSON Web Tokens)** 🔑
-
-### Tools
-- **Git & GitHub** 🐙
-- **VS Code** 🔧
-- **Postman** 📡
-- **Figma** 🎨
-
----
-
-## ⚡ Fun Fact
-I think I’m funny, but my friends say my code is funnier! 😄
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishaq60&show_icons=true&locale=en" alt="ishaq60" /></p>
