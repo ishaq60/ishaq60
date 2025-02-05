@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishaq Ahammad Mondol</h1>
-<h3 align="center">### A passionate **Frontend Developer** from Bangladesh 🚀 I love building modern, responsive, and user-friendly web applications. With expertise in **React**, **JavaScript**, **HTML**, **CSS**, and **Tailwind CSS**, I enjoy turning ideas into functional and visually appealing digital experiences. I’m also skilled in backend technologies like **Node.js**, **Express.js**, **MongoDB**, and **Firebase Authentication**, making me a versatile full-stack developer.</h3>
+<h3 align="center">### A passionate **Frontend Developer**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishaq60&label=Profile%20views&color=0e75b6&style=flat" alt="ishaq60" /> </p>
 
