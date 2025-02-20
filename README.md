@@ -1,59 +1,95 @@
-# Hi, I'm Ishaq Ahammad Mondol 👋
+# Hi 👋, I'm Ishaq Ahammad Mondol
 
-### Aspiring MERN Stack Developer | Computer Science Undergraduate
+<h1 align="center">Hi 👋, I'm Ishaq Ahammad Mondol</h1>
+<h3 align="center">A passionate **Frontend Developer** from Bangladesh 🚀</h3>
 
-![Banner](https://i.ibb.co.com/v48gYB8F/1724931063238.jpg)
+![Banner](https://i.ibb.co.com/v48gYB8F/1724931063238.jpg) <!-- Replace with your banner image link -->
 
-Welcome to my GitHub profile! I'm passionate about building **scalable web applications** and solving real-world problems through code. Here, you'll find a collection of my experiments, contributions, and learning journey. Feel free to explore, and don't hesitate to reach out if you'd like to collaborate or chat about tech!
+I love building modern, responsive, and user-friendly web applications. With expertise in **React**, **JavaScript**, **HTML**, **CSS**, and **Tailwind CSS**, I enjoy turning ideas into functional and visually appealing digital experiences. I’m also skilled in backend technologies like **Node.js**, **Express.js**, **MongoDB**, and **Firebase Authentication**, making me a versatile full-stack developer.
 
 ---
 
-## 🚀 **Skills & Technologies**
+## 🔭 **I’m currently working on**
+- **[Project Name](project link)** - A brief description of the project.
+
+## 🌱 **I’m currently learning**
+- **Next.js**
+- **Advanced React Patterns**
+- **TypeScript**
+- **GraphQL**
+
+## 👯 **I’m looking to collaborate on**
+- **[Project Name](project link)** - A brief description of the project.
+
+## 🤝 **I’m looking for help with**
+- **[Project Name](project link)** - A brief description of the project.
+
+## 💬 **Ask me about**
+- **React**
+- **JavaScript**
+- **Tailwind CSS**
+- **Node.js**
+- **MongoDB**
+
+## 📫 **How to reach me**
+- **Email**: [example@gmail.com](mailto:example@gmail.com)
+- **LinkedIn**: [Ishaq Ahammad Mondol](https://linkedin.com/in/ishaq-ahammad-mondol-556b113117)
+- **Portfolio**: [Your Portfolio Website](#)
+
+---
+
+## 🛠️ **Skills & Tools**
 
 ### **Frontend Development**
-- React, JavaScript (ES6+), HTML5, CSS3
-- **Tailwind CSS** (Proficient in building responsive and modern UIs)
-- Redux (State management)
-- Bootstrap (For quick prototyping)
+- **React** ⚛️
+- **JavaScript (ES6+)** 📜
+- **HTML5** / **CSS3** 🎨
+- **Tailwind CSS** 🌟
+- **Redux** (State management)
+- **Bootstrap** (For quick prototyping)
 
 ### **Backend Development**
-- Node.js, Express.js
-- RESTful APIs
-- Authentication & Authorization (JWT, OAuth)
-
-### **Database**
-- MongoDB (NoSQL database)
-- Mongoose (ODM for MongoDB)
+- **Node.js** 🖥️
+- **Express.js** 🚀
+- **RESTful APIs**
+- **MongoDB** 🗄️
+- **Firebase Authentication** 🔐
+- **JWT (JSON Web Tokens)** 🔑
 
 ### **Tools & Platforms**
-- Git & GitHub (Version control)
-- VS Code (Primary code editor)
-- Postman (API testing)
-- npm/yarn (Package management)
-
-### **Other Skills**
-- Problem Solving
-- Data Structures & Algorithms
-- Responsive Web Design
-- Debugging & Testing
+- **Git & GitHub** 🐙
+- **VS Code** 🔧
+- **Postman** 📡
+- **npm/yarn** (Package management)
+- **Figma** 🎨
 
 ---
 
 ## 📊 **GitHub Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishaq60&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishaq60&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
 ---
 
-## 📫 **Let's Connect!**
+## 🌐 **Connect with Me**
 
-I'm always open to collaborating on exciting projects or discussing new opportunities. Feel free to reach out:
-
-- **LinkedIn:** [Ishaq Ahammad Mondol](#)
-- **Email:** your.email@example.com
-- **Portfolio:** [Your Portfolio Website](#)
+<p align="left">
+  <a href="https://twitter.com/ishaqshamim2" target="blank">
+    <img src="https://img.shields.io/twitter/follow/ishaqshamim2?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  </a>
+  <a href="https://linkedin.com/in/ishaq-ahammad-mondol-556b113117" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://fb.com/ishaqshamim243" target="blank">
+    <img src="https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/ishaqshamim243" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram" alt="Instagram" />
+  </a>
+</p>
 
 ---
 
