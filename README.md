@@ -1,25 +1,62 @@
-<h1 align="center">Hi 👋, I'm Ishaq Ahammad Mondol</h1>
-<h3 align="center">### A passionate **Frontend Developer**
+# Hi, I'm Ishaq Ahammad Mondol 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishaq60&label=Profile%20views&color=0e75b6&style=flat" alt="ishaq60" /> </p>
+### Aspiring MERN Stack Developer | Computer Science Undergraduate
 
-<p align="left"> <a href="https://twitter.com/ishaqshamim2" target="blank"><img src="https://img.shields.io/twitter/follow/ishaqshamim2?logo=twitter&style=for-the-badge" alt="ishaqshamim2" /></a> </p>
+![Banner](https://i.ibb.co.com/v48gYB8F/1724931063238.jpg)
 
-- 🌱 I’m currently learning **Next js**
+Welcome to my GitHub profile! I'm passionate about building **scalable web applications** and solving real-world problems through code. Here, you'll find a collection of my experiments, contributions, and learning journey. Feel free to explore, and don't hesitate to reach out if you'd like to collaborate or chat about tech!
 
-- 💬 Ask me about **react**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ishaqshamim2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ishaqshamim2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ishaq-ahammad-mondol-556b113117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishaq-ahammad-mondol-556b113117" height="30" width="40" /></a>
-<a href="https://fb.com/ishaqshamim243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ishaqshamim243" height="30" width="40" /></a>
-<a href="https://instagram.com/ishaqshamim243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishaqshamim243" height="30" width="40" /></a>
-</p>
+## 🚀 **Skills & Technologies**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### **Frontend Development**
+- React, JavaScript (ES6+), HTML5, CSS3
+- **Tailwind CSS** (Proficient in building responsive and modern UIs)
+- Redux (State management)
+- Bootstrap (For quick prototyping)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishaq60&show_icons=true&locale=en&layout=compact" alt="ishaq60" /></p>
+### **Backend Development**
+- Node.js, Express.js
+- RESTful APIs
+- Authentication & Authorization (JWT, OAuth)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishaq60&show_icons=true&locale=en" alt="ishaq60" /></p>
+### **Database**
+- MongoDB (NoSQL database)
+- Mongoose (ODM for MongoDB)
+
+### **Tools & Platforms**
+- Git & GitHub (Version control)
+- VS Code (Primary code editor)
+- Postman (API testing)
+- npm/yarn (Package management)
+
+### **Other Skills**
+- Problem Solving
+- Data Structures & Algorithms
+- Responsive Web Design
+- Debugging & Testing
+
+---
+
+## 📊 **GitHub Stats**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+
+---
+
+## 📫 **Let's Connect!**
+
+I'm always open to collaborating on exciting projects or discussing new opportunities. Feel free to reach out:
+
+- **LinkedIn:** [Ishaq Ahammad Mondol](#)
+- **Email:** your.email@example.com
+- **Portfolio:** [Your Portfolio Website](#)
+
+---
+
+## 🙏 **Thank You!**
+
+Thanks for visiting my GitHub profile! If you find any of my work interesting, don't forget to give it a ⭐️. Happy coding! 🚀
