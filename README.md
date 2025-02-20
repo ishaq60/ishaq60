@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ishaq Ahammad Mondol
 
-<h1 align="center">Hi 👋, I'm Ishaq Ahammad Mondol</h1>
+
 <h3 align="center">A passionate **Frontend Developer** from Bangladesh 🚀</h3>
 
 ![Banner](https://i.ibb.co.com/v48gYB8F/1724931063238.jpg) <!-- Replace with your banner image link -->
@@ -18,11 +18,6 @@ I love building modern, responsive, and user-friendly web applications. With exp
 - **TypeScript**
 - **GraphQL**
 
-## 👯 **I’m looking to collaborate on**
-- **[Project Name](project link)** - A brief description of the project.
-
-## 🤝 **I’m looking for help with**
-- **[Project Name](project link)** - A brief description of the project.
 
 ## 💬 **Ask me about**
 - **React**
@@ -32,9 +27,9 @@ I love building modern, responsive, and user-friendly web applications. With exp
 - **MongoDB**
 
 ## 📫 **How to reach me**
-- **Email**: [example@gmail.com](mailto:example@gmail.com)
+- **Email**: ishaqahammad60@gmail.com
 - **LinkedIn**: [Ishaq Ahammad Mondol](https://linkedin.com/in/ishaq-ahammad-mondol-556b113117)
-- **Portfolio**: [Your Portfolio Website](#)
+
 
 ---
 
