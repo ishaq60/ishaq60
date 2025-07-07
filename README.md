@@ -10,7 +10,7 @@ I love building modern, responsive, and user-friendly web applications. With exp
 ---
 
 ## 🔭 **I’m currently working on**
-- **[Project Name](project link)** - A brief description of the project.
+
 
 ## 🌱 **I’m currently learning**
 - **Next.js**
