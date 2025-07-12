@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishaq Ahammad Mondol</h1>
-<h3 align="center">A passionate I’m a **Computer Science undergraduate** with a passion for creating exceptional web experiences through clean code and intuitive design.frontend developer from India</h3>
+<h3 align="center">A passionate I’m a **Computer Science undergraduate** with a passion for creating exceptional web experiences through clean code and intuitive design.frontend developer from Bangladesh</h3>
 
 - ## 💻 What I’m Working On **
 - 📌 Building **scalable, high-performance web applications** 
