@@ -1,93 +1,65 @@
-# Hi 👋, I'm Ishaq Ahammad Mondol
+# 👋 Hi, I'm Ishaq Ahammad Mondol
 
-
-<h3 align="center">A passionate **Frontend Developer** from Bangladesh 🚀</h3>
-
-![Banner](https://i.ibb.co.com/v48gYB8F/1724931063238.jpg) <!-- Replace with your banner image link -->
-
-I love building modern, responsive, and user-friendly web applications. With expertise in **React**, **JavaScript**, **HTML**, **CSS**, and **Tailwind CSS**, I enjoy turning ideas into functional and visually appealing digital experiences. I’m also skilled in backend technologies like **Node.js**, **Express.js**, **MongoDB**, and **Firebase Authentication**, making me a versatile full-stack developer.
+A passionate **Computer Science undergraduate** with a love for creating exceptional web experiences through clean code and intuitive design.  
+Frontend developer from India.
 
 ---
 
-## 🔭 **I’m currently working on**
+## 💻 What I’m Working On
 
-
-## 🌱 **I’m currently learning**
-- **Next.js**
-- **Advanced React Patterns**
-- **TypeScript**
-- **GraphQL**
-
-
-## 💬 **Ask me about**
-- **React**
-- **JavaScript**
-- **Tailwind CSS**
-- **Node.js**
-- **MongoDB**
-
-## 📫 **How to reach me**
-- **Email**: ishaqahammad60@gmail.com
-- **LinkedIn**: [Ishaq Ahammad Mondol](https://linkedin.com/in/ishaq-ahammad-mondol-556b113117)
-
+- 📌 Building **scalable, high-performance web applications**  
+- 🧩 Focusing on **responsive, user-centric interfaces**  
+- 🌱 Deepening my skills with **React.js**, **Next.js**, and modern **MERN stack** best practices  
+- 👨‍💻 All of my projects are available at [https://codebyishaqdev.netlify.app/](https://codebyishaqdev.netlify.app/)
 
 ---
 
-## 🛠️ **Skills & Tools**
+## 🎯 Goals & Interests
 
-### **Frontend Development**
-- **React** ⚛️
-- **JavaScript (ES6+)** 📜
-- **HTML5** / **CSS3** 🎨
-- **Tailwind CSS** 🌟
-- **Redux** (State management)
-- **Bootstrap** (For quick prototyping)
-
-### **Backend Development**
-- **Node.js** 🖥️
-- **Express.js** 🚀
-- **RESTful APIs**
-- **MongoDB** 🗄️
-- **Firebase Authentication** 🔐
-- **JWT (JSON Web Tokens)** 🔑
-
-### **Tools & Platforms**
-- **Git & GitHub** 🐙
-- **VS Code** 🔧
-- **Postman** 📡
-- **npm/yarn** (Package management)
-- **Figma** 🎨
+- Contribute to **open-source projects**  
+- 🖌️ Explore advanced **UI/UX design principles**  
+- ⚡ Solve real-world problems through **clean, intuitive software**  
+- 🌍 Grow as a **full-stack developer**
 
 ---
 
-## 📊 **GitHub Stats**
+## 📫 How to reach me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishaq60&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishaq60&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+- Email: **ishaqahammad133@gmail.com**
 
 ---
 
-## 🌐 **Connect with Me**
+## 🔗 Connect with me:
+
+[![Dev.to](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg)](https://dev.to/ishaq_ahammad55_d6c068d6)  
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/ishaq-ahammad-mondol-556b11317)  
+[![Facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)](https://fb.com/ishaqshamim243)  
+
+---
+
+## 🛠 Languages and Tools:
+
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>  
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>  
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  
+<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>  
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="left">
-  <a href="https://twitter.com/ishaqshamim2" target="blank">
-    <img src="https://img.shields.io/twitter/follow/ishaqshamim2?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-  <a href="https://linkedin.com/in/ishaq-ahammad-mondol-556b113117" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://fb.com/ishaqshamim243" target="blank">
-    <img src="https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook" alt="Facebook" />
-  </a>
-  <a href="https://instagram.com/ishaqshamim243" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram" alt="Instagram" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishaq60&show_icons=true&locale=en&layout=compact" alt="ishaq60" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=ishaq60&show_icons=true&locale=en" alt="ishaq60" />
 </p>
-
----
-
-## 🙏 **Thank You!**
-
-Thanks for visiting my GitHub profile! If you find any of my work interesting, don't forget to give it a ⭐️. Happy coding! 🚀
