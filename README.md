@@ -5,7 +5,7 @@
 - 📌 Building **scalable, high-performance web applications** 
 - 🧩 Focusing on **responsive, user-centric interfaces**
 -  🌱 Deepening my skills with **React.js**, **Next.js**, and modern **MERN stack** best practices**
--  - 👨‍💻 All of my projects are available at [https://codebyishaqdev.netlify.app/](https://codebyishaqdevd.netlify.app/)
+-  - 👨‍💻 All of my projects are available at [https://ishaqdevfolio.netlify.app/](https://ishaqdevfolio.netlify.app/)
 
 - ## 🎯 Goals & Interests
 - Contribute to **open-source projects** -
